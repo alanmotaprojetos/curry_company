@@ -3,7 +3,12 @@ plotly==5.10.0
 pandas=1.4.3
 numpy==1.23.1
 folium==0.13
-matplotlib==3.5.3
 haversine==2.7.0
 streamlit-folium==0.7.0
 Pillow=9.2.0
+deta==1.1.0
+keras==2.9.0
+matplotlib==3.2.2
+pandas_datareader==0.10.0
+pandas_market_calendars==4.1.1
+scikit_learn==1.1.3
